@@ -1,0 +1,243 @@
+,BLDG_IRN,NAME,YEAR,DIVISION,GENDER,TYPE,PLACE,POPULATION
+0,52928,Columbus School For Girls ,2020,2,G,District,4,180
+1,60764,Laurel School ,2020,2,G,District,13,202
+2,52654,Beaumont School ,2020,2,G,District,5,287
+3,52654,Beaumont School ,2020,2,G,Regional,15,287
+4,52787,Cardinal Mooney ,2020,2,G,District,10,290
+5,10769,Eastern High School,2020,2,G,District,13,310
+6,146480,Rock Hill Sr High School,2020,2,G,District,4,319
+7,146480,Rock Hill Sr High School,2020,2,G,Regional,14,319
+8,37663,Tuscarawas Valley High School,2020,2,G,District,3,327
+9,37663,Tuscarawas Valley High School,2020,2,G,Regional,10,327
+10,37671,Tuslaw High School,2020,2,G,District,9,331
+11,12450,Fredericktown High School,2020,2,G,District,2,339
+12,12450,Fredericktown High School,2020,2,G,Regional,7,339
+13,12450,Fredericktown High School,2020,2,G,State,20,339
+14,13110,James A Garfield High School,2020,2,G,District,9,345
+15,9779,Eastwood I High School,2020,2,G,District,2,357
+16,9779,Eastwood I High School,2020,2,G,Regional,11,357
+17,53033,Hathaway Brown ,2020,2,G,District,2,358
+18,53033,Hathaway Brown ,2020,2,G,Regional,4,358
+19,53033,Hathaway Brown ,2020,2,G,State,7,358
+20,11668,Finneytown Secondary Campus,2020,2,G,District,5,363
+21,3863,Brookville High School,2020,2,G,District,7,366
+22,24984,Milton-Union High School,2020,2,G,District,9,366
+23,4507,Harrison Central Jr./Sr. High School,2020,2,G,District,13,371
+24,5819,Champion High School,2020,2,G,District,15,372
+25,41319,Willard High School,2020,2,G,District,11,372
+26,10041,Edison High School,2020,2,G,District,3,375
+27,10041,Edison High School,2020,2,G,Regional,6,375
+28,26393,North Union High School,2020,2,G,District,8,378
+29,7211,Conneaut High School,2020,2,G,District,14,379
+30,17194,Huron High School,2020,2,G,District,6,385
+31,19364,River Valley High School,2020,2,G,District,14,394
+32,22418,Manchester High School,2020,2,G,District,15,395
+33,6635,Clermont Northeastern High School,2020,2,G,District,5,399
+34,7724,Crestwood High School,2020,2,G,District,11,400
+35,315,Alexander Jr. / Sr. High School,2020,2,G,District,7,401
+36,315,Alexander Jr. / Sr. High School,2020,2,G,Regional,18,401
+37,33563,Sandy Valley High School,2020,2,G,District,2,401
+38,33563,Sandy Valley High School,2020,2,G,Regional,11,401
+39,2576,Bethel High School,2020,2,G,District,7,403
+40,38042,Utica High School,2020,2,G,District,8,404
+41,28076,Norwayne High School,2020,2,G,District,8,413
+42,40931,Wheelersburg High School,2020,2,G,District,12,413
+43,28183,Oak Harbor High School,2020,2,G,District,5,415
+44,37846,Union Local High School,2020,2,G,District,19,416
+45,19661,Lakeview High School,2020,2,G,District,10,424
+46,23960,Meadowbrook High School,2020,2,G,District,10,424
+47,6528,Claymont High School,2020,2,G,District,18,427
+48,27896,Northwestern Junior/Senior High School,2020,2,G,District,3,427
+49,27896,Northwestern Junior/Senior High School,2020,2,G,Regional,11,427
+50,52910,Columbus Academy ,2020,2,G,District,7,431
+51,17905,Jefferson Area Sr High School,2020,2,G,District,12,431
+52,2568,Bethel Tate High School,2020,2,G,District,6,432
+53,12773,Galion High School,2020,2,G,District,4,432
+54,12773,Galion High School,2020,2,G,Regional,2,432
+55,12773,Galion High School,2020,2,G,State,16,432
+56,34256,Shawnee Middle School/High School,2020,2,G,District,5,432
+57,17343,Indian Lake High School,2020,2,G,District,4,433
+58,17343,Indian Lake High School,2020,2,G,Regional,10,433
+59,4911,Carlisle High School,2020,2,G,District,11,435
+60,29843,Philo High School,2020,2,G,District,17,436
+61,25056,Minerva High School,2020,2,G,District,1,447
+62,25056,Minerva High School,2020,2,G,Regional,2,447
+63,25056,Minerva High School,2020,2,G,State,9,447
+64,3830,Brookside High School,2020,2,G,District,11,452
+65,19539,Lake High School,2020,2,G,District,7,456
+66,22772,Mariemont High School,2020,2,G,District,1,456
+67,22772,Mariemont High School,2020,2,G,Regional,7,456
+68,40055,Waynesville High School,2020,2,G,District,1,456
+69,40055,Waynesville High School,2020,2,G,Regional,2,456
+70,40055,Waynesville High School,2020,2,G,State,5,456
+71,64394,Lake Catholic ,2020,2,G,District,8,457
+72,36830,Robert A. Taft Information Technology High School,2020,2,G,District,7,459
+73,20446,Liberty-Benton High School,2020,2,G,District,3,464
+74,20446,Liberty-Benton High School,2020,2,G,Regional,10,464
+75,17426,Indian Valley High School,2020,2,G,District,6,467
+76,17426,Indian Valley High School,2020,2,G,Regional,19,467
+77,38554,West Branch High School,2020,2,G,District,11,471
+78,39909,Waverly High School,2020,2,G,District,11,474
+79,21220,Benjamin Logan High School,2020,2,G,District,10,476
+80,52977,Bishop Fenwick ,2020,2,G,District,3,478
+81,6551,Clear Fork High School,2020,2,G,District,9,479
+82,38174,Valley View High School,2020,2,G,District,6,483
+83,64865,New Lexington High School,2020,2,G,District,10,488
+84,11684,Firelands High School,2020,2,G,District,15,495
+85,21212,Logan Elm High School,2020,2,G,District,16,496
+86,18481,Johnstown High School,2020,2,G,District,5,497
+87,13482,Girard Sr High School,2020,2,G,District,13,498
+88,15792,Heath High School,2020,2,G,District,5,502
+89,18846,Kenton High School,2020,2,G,District,7,503
+90,19695,Lakewood High School,2020,2,G,District,9,503
+91,5017,Carrollton High School-Carrollton Middle School,2020,2,G,District,4,505
+92,5017,Carrollton High School-Carrollton Middle School,2020,2,G,Regional,9,505
+93,9936,Edgewood High School,2020,2,G,District,3,505
+94,9936,Edgewood High School,2020,2,G,Regional,11,505
+95,12799,Gallia Academy High School,2020,2,G,District,9,506
+96,35626,St Clairsville High School,2020,2,G,District,8,507
+97,35626,St Clairsville High School,2020,2,G,Regional,21,507
+98,28670,Ontario High School,2020,2,G,District,5,508
+99,28910,Ottawa-Glandorf High School,2020,2,G,District,4,508
+100,28910,Ottawa-Glandorf High School,2020,2,G,Regional,9,508
+101,52621,Archbishop Alter ,2020,2,G,District,4,509
+102,31872,River Valley High School,2020,2,G,District,7,510
+103,16162,Highland High School,2020,2,G,District,4,512
+104,53207,Lutheran West ,2020,2,G,District,14,512
+105,37952,Upper Sandusky High School,2020,2,G,District,4,513
+106,37952,Upper Sandusky High School,2020,2,G,Regional,12,513
+107,53488,Roger Bacon ,2020,2,G,District,7,518
+108,31880,River View High School,2020,2,G,District,9,519
+109,2246,Bellevue High School,2020,2,G,District,7,520
+110,11304,Fairview High School,2020,2,G,District,6,521
+111,11304,Fairview High School,2020,2,G,Regional,20,521
+112,53298,McNicholas ,2020,2,G,District,4,521
+113,29710,Perry High School,2020,2,G,District,4,521
+114,29710,Perry High School,2020,2,G,Regional,14,521
+115,9803,Eaton High School,2020,2,G,District,2,523
+116,9803,Eaton High School,2020,2,G,Regional,3,523
+117,9803,Eaton High School,2020,2,G,State,13,523
+118,11551,Field High School,2020,2,G,District,14,523
+119,30452,Poland Seminary High School,2020,2,G,District,2,524
+120,30452,Poland Seminary High School,2020,2,G,Regional,7,524
+121,39883,Wauseon High School,2020,2,G,District,1,526
+122,39883,Wauseon High School,2020,2,G,Regional,4,526
+123,39883,Wauseon High School,2020,2,G,State,15,526
+124,9084,East Liverpool High School,2020,2,G,District,14,527
+125,34306,Shelby High School,2020,2,G,District,2,529
+126,34306,Shelby High School,2020,2,G,Regional,5,529
+127,30841,Port Clinton High School,2020,2,G,District,8,532
+128,25544,Morgan High School,2020,2,G,District,11,538
+129,23424,McClain High School,2020,2,G,District,15,540
+130,4028,Bryan Middle School/High School,2020,2,G,District,9,543
+131,53348,Holy Name High School ,2020,2,G,District,10,549
+132,20487,Licking Valley High School,2020,2,G,District,6,550
+133,38471,Vinton County High School,2020,2,G,District,3,550
+134,38471,Vinton County High School,2020,2,G,Regional,12,550
+135,26419,Napoleon Junior/Senior High School,2020,2,G,District,6,555
+136,41848,Indian Creek High School,2020,2,G,District,16,556
+137,38265,Van Wert High School,2020,2,G,District,3,557
+138,38265,Van Wert High School,2020,2,G,Regional,7,557
+139,11072,Fairfield Union High School,2020,2,G,District,6,559
+140,11072,Fairfield Union High School,2020,2,G,Regional,15,559
+141,27862,Northwest High School,2020,2,G,District,8,559
+142,67611,Cuyahoga Valley Christian Acad ,2020,2,G,District,7,563
+143,67611,Cuyahoga Valley Christian Acad ,2020,2,G,Regional,17,563
+144,38695,West Holmes High School,2020,2,G,District,5,565
+145,38695,West Holmes High School,2020,2,G,Regional,20,565
+146,26922,New Richmond High School,2020,2,G,District,4,569
+147,39248,Warren High School,2020,2,G,District,5,572
+148,39248,Warren High School,2020,2,G,Regional,17,572
+149,6320,Circleville High School,2020,2,G,District,8,578
+150,7286,Coventry High School,2020,2,G,District,16,578
+151,17046,Hubbard High School,2020,2,G,District,17,581
+152,35485,Springfield Junior/Senior High School,2020,2,G,District,5,587
+153,35485,Springfield Junior/Senior High School,2020,2,G,Regional,10,587
+154,36269,Streetsboro High School,2020,2,G,District,9,587
+155,53041,Hawken School ,2020,2,G,District,2,589
+156,53041,Hawken School ,2020,2,G,Regional,6,589
+157,53041,Hawken School ,2020,2,G,State,14,589
+158,13656,John Glenn High School,2020,2,G,District,7,591
+159,13656,John Glenn High School,2020,2,G,Regional,16,591
+160,1842,Beachwood High School,2020,2,G,District,13,594
+161,6759,Cloverleaf High School,2020,2,G,District,3,617
+162,6759,Cloverleaf High School,2020,2,G,Regional,3,617
+163,6759,Cloverleaf High School,2020,2,G,State,8,617
+164,42382,Wyoming High School,2020,2,G,District,1,617
+165,42382,Wyoming High School,2020,2,G,Regional,5,617
+166,36954,Taylor High School,2020,2,G,District,2,618
+167,36954,Taylor High School,2020,2,G,Regional,8,618
+168,4994,Bloom-Carroll High School,2020,2,G,District,6,620
+169,52647,Stephen T Badin ,2020,2,G,District,2,620
+170,52647,Stephen T Badin ,2020,2,G,Regional,9,620
+171,34363,Sheridan High School,2020,2,G,District,1,621
+172,34363,Sheridan High School,2020,2,G,Regional,8,621
+173,42051,Woodridge High School,2020,2,G,District,1,635
+174,42051,Woodridge High School,2020,2,G,Regional,1,635
+175,42051,Woodridge High School,2020,2,G,State,4,635
+176,17301,Indian Hill High School,2020,2,G,District,3,640
+177,6791,Clyde High School,2020,2,G,District,10,643
+178,53850,St Vincent St Mary ,2020,2,G,District,1,644
+179,53850,St Vincent St Mary ,2020,2,G,Regional,2,644
+180,53850,St Vincent St Mary ,2020,2,G,State,3,644
+181,5751,Chagrin Falls High School,2020,2,G,District,1,645
+182,5751,Chagrin Falls High School,2020,2,G,Regional,8,645
+183,23242,Maumee High School,2020,2,G,District,8,650
+184,33472,Salem High School,2020,2,G,District,3,653
+185,33472,Salem High School,2020,2,G,Regional,9,653
+186,4143,Buckeye Valley Local High School,2020,2,G,District,3,662
+187,4143,Buckeye Valley Local High School,2020,2,G,Regional,5,662
+188,4143,Buckeye Valley Local High School,2020,2,G,State,17,662
+189,13219,Geneva High School,2020,2,G,District,6,664
+190,13219,Geneva High School,2020,2,G,Regional,16,664
+191,34272,Shawnee High School,2020,2,G,District,2,664
+192,34272,Shawnee High School,2020,2,G,Regional,3,664
+193,34272,Shawnee High School,2020,2,G,State,18,664
+194,18507,Jonathan Alder High School,2020,2,G,District,2,674
+195,18507,Jonathan Alder High School,2020,2,G,Regional,4,674
+196,18507,Jonathan Alder High School,2020,2,G,State,11,674
+197,52696,Bishop Hartley ,2020,2,G,District,3,675
+198,52696,Bishop Hartley ,2020,2,G,Regional,13,675
+199,2220,Bellefontaine High School,2020,2,G,District,8,683
+200,22947,Marlington High School,2020,2,G,District,7,683
+201,22947,Marlington High School,2020,2,G,Regional,18,683
+202,52878,Chaminade-Julienne ,2020,2,G,District,6,686
+203,36020,Steubenville High School,2020,2,G,District,15,687
+204,28373,Oakwood High School,2020,2,G,District,1,688
+205,28373,Oakwood High School,2020,2,G,Regional,1,688
+206,28373,Oakwood High School,2020,2,G,State,2,688
+207,52803,Carroll ,2020,2,G,District,3,693
+208,52803,Carroll ,2020,2,G,Regional,6,693
+209,8300,Defiance High School,2020,2,G,District,5,695
+210,1149,Athens High School,2020,2,G,District,2,698
+211,1149,Athens High School,2020,2,G,Regional,6,698
+212,1149,Athens High School,2020,2,G,State,19,698
+213,38653,West Geauga High School,2020,2,G,District,5,712
+214,38653,West Geauga High School,2020,2,G,Regional,19,712
+215,53371,Notre Dame-Cathedral Latin ,2020,2,G,District,7,723
+216,53439,Padua Franciscan ,2020,2,G,District,12,725
+217,20255,Lexington High School,2020,2,G,District,1,727
+218,20255,Lexington High School,2020,2,G,Regional,1,727
+219,20255,Lexington High School,2020,2,G,State,1,727
+220,5207,Celina High School,2020,2,G,District,1,735
+221,5207,Celina High School,2020,2,G,Regional,8,735
+222,28068,Norwalk High School,2020,2,G,District,6,736
+223,147538,Aiken New Tech High School,2020,2,G,District,6,742
+224,2675,Bexley High School,2020,2,G,District,1,742
+225,2675,Bexley High School,2020,2,G,Regional,3,742
+226,2675,Bexley High School,2020,2,G,State,10,742
+227,37291,Tippecanoe High School,2020,2,G,District,2,752
+228,37291,Tippecanoe High School,2020,2,G,Regional,4,752
+229,27995,Norton High School,2020,2,G,District,12,758
+230,37515,Tri-Valley High School,2020,2,G,District,12,780
+231,36897,Tallmadge High School,2020,2,G,District,4,786
+232,36897,Tallmadge High School,2020,2,G,Regional,12,786
+233,14258,Granville High School,2020,2,G,District,1,792
+234,14258,Granville High School,2020,2,G,Regional,1,792
+235,14258,Granville High School,2020,2,G,State,6,792
+236,52639,Archbishop Hoban ,2020,2,G,District,6,809
+237,52639,Archbishop Hoban ,2020,2,G,Regional,13,809
+238,14621,Greenville Senior High School,2020,2,G,District,5,818
+239,31393,Revere High School,2020,2,G,District,4,877
+240,31393,Revere High School,2020,2,G,Regional,5,877
+241,31393,Revere High School,2020,2,G,State,12,877

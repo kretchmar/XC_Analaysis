@@ -1,0 +1,279 @@
+,BLDG_IRN,NAME,YEAR,DIVISION,GENDER,TYPE,PLACE,POPULATION
+0,1883,Beallsville High School,2017,3,B,District,8,65
+1,126144,Granville Christian Academy ,2017,3,B,District,6,86
+2,26765,New Knoxville High School,2017,3,B,District,11,93
+3,52860,Central Christian ,2017,3,B,District,12,95
+4,36327,Stryker High School,2017,3,B,District,4,98
+5,36327,Stryker High School,2017,3,B,Regional,20,98
+6,134619,Emmanuel Christian Academy ,2017,3,B,District,32,104
+7,125278,Heartland Christian School ,2017,3,B,District,10,106
+8,13870,Fayette Jr/Sr High School,2017,3,B,District,6,109
+9,17582,Jackson Center High School,2017,3,B,District,12,109
+10,15172,Hardin Northern High School,2017,3,B,District,9,112
+11,23879,Mckinley High School,2017,3,B,District,11,112
+12,53686,"Bishop Hoffman Catholic, St Joseph Central Catholi",2017,3,B,District,5,115
+13,53785,St Peter High School and Junior High School ,2017,3,B,District,9,115
+14,3376,Bradford High School,2017,3,B,District,19,116
+15,33050,Russia High School,2017,3,B,District,14,117
+16,53363,Notre Dame Jr/Sr ,2017,3,B,District,21,119
+17,28936,Ottoville High School,2017,3,B,District,8,122
+18,21717,Lucas High School,2017,3,B,District,10,124
+19,10090,Edon High School,2017,3,B,District,13,125
+20,40097,Waynesfield-Goshen Local High School,2017,3,B,District,12,126
+21,16568,Holgate High School,2017,3,B,District,9,128
+22,84202,Middletown Christian ,2017,3,B,District,9,129
+23,16436,Hilltop High School,2017,3,B,District,12,131
+24,53751,Sandusky Central Catholic School ,2017,3,B,District,2,132
+25,53751,Sandusky Central Catholic School ,2017,3,B,Regional,7,132
+26,53751,Sandusky Central Catholic School ,2017,3,B,State,19,132
+27,21477,Lordstown High School,2017,3,B,District,10,134
+28,39081,Millersport Jr/Sr High School,2017,3,B,District,9,138
+29,52670,Wm V Fisher Catholic ,2017,3,B,District,6,138
+30,26955,New Riegel High School,2017,3,B,District,9,139
+31,14373,Green High School,2017,3,B,District,5,140
+32,14373,Green High School,2017,3,B,Regional,15,140
+33,29793,Pettisville High School,2017,3,B,District,5,141
+34,67546,Legacy Christian Academy ,2017,3,B,District,16,147
+35,26070,North Baltimore High School,2017,3,B,District,10,147
+36,18606,Kalida High School,2017,3,B,District,7,148
+37,90274,Open Door Christian Schools ,2017,3,B,District,6,148
+38,3640,Bristol High School,2017,3,B,District,8,149
+39,52795,Cardinal Stritch Catholic High School & Academy ,2017,3,B,District,13,149
+40,11163,Fairlawn High School,2017,3,B,District,28,149
+41,12377,Franklin Monroe High School,2017,3,B,District,13,153
+42,67637,The Miami Valley School ,2017,3,B,District,24,153
+43,134510,Fairfield Christian Academy ,2017,3,B,District,11,157
+44,27169,Newton High School,2017,3,B,District,21,158
+45,5173,Cedarville High School,2017,3,B,District,3,165
+46,5173,Cedarville High School,2017,3,B,Regional,5,165
+47,53082,Lehman High School ,2017,3,B,District,30,165
+48,26112,North Central Junior/High School,2017,3,B,District,9,165
+49,25122,Mississinawa Valley JR/SR High School,2017,3,B,District,31,168
+50,41004,Whiteoak High School,2017,3,B,District,7,169
+51,30429,Plymouth High School,2017,3,B,District,7,171
+52,844,Antwerp Local High School,2017,3,B,District,3,174
+53,844,Antwerp Local High School,2017,3,B,Regional,21,174
+54,4085,Buckeye Central High School,2017,3,B,District,10,174
+55,7401,Cory-Rawson High School,2017,3,B,District,10,176
+56,9589,Eastern High School,2017,3,B,District,10,176
+57,9894,Edgerton High School,2017,3,B,District,3,179
+58,9894,Edgerton High School,2017,3,B,Regional,17,179
+59,3228,Botkins High School,2017,3,B,District,8,183
+60,3228,Botkins High School,2017,3,B,Regional,9,183
+61,35196,Southeastern  Sr. High School,2017,3,B,District,27,183
+62,23218,Mathews High School,2017,3,B,District,11,184
+63,17798,Jackson-Milton High School,2017,3,B,District,5,188
+64,36749,Symmes Valley High School,2017,3,B,District,20,189
+65,70409,Cincinnati Christian Schools ,2017,3,B,District,8,190
+66,16352,Hillsdale High School,2017,3,B,District,13,190
+67,15156,Houston High School,2017,3,B,District,2,192
+68,15156,Houston High School,2017,3,B,Regional,3,192
+69,15156,Houston High School,2017,3,B,State,15,192
+70,778,Ansonia High School,2017,3,B,District,25,195
+71,1446,Badger High School,2017,3,B,District,4,195
+72,1446,Badger High School,2017,3,B,Regional,9,195
+73,11460,Fayetteville-Perry High School,2017,3,B,District,10,195
+74,53165,Lima Central Catholic ,2017,3,B,District,6,195
+75,12641,Fort Loramie Junior-Senior High School,2017,3,B,District,1,197
+76,12641,Fort Loramie Junior-Senior High School,2017,3,B,Regional,1,197
+77,12641,Fort Loramie Junior-Senior High School,2017,3,B,State,7,197
+78,22681,Maplewood High School,2017,3,B,District,2,197
+79,22681,Maplewood High School,2017,3,B,Regional,5,197
+80,7534,Covington High School,2017,3,B,District,22,199
+81,1420,Ayersville High School,2017,3,B,District,6,204
+82,17665,McComb Local Jr/Sr High School,2017,3,B,District,7,205
+83,53769,Norwalk Catholic School ,2017,3,B,District,4,207
+84,53769,Norwalk Catholic School ,2017,3,B,Regional,10,207
+85,4556,Caldwell High School,2017,3,B,District,2,208
+86,4556,Caldwell High School,2017,3,B,Regional,8,208
+87,11502,Felicity-Franklin Local  High School,2017,3,B,District,5,209
+88,53355,Newark Catholic ,2017,3,B,District,3,209
+89,53355,Newark Catholic ,2017,3,B,Regional,11,209
+90,2873,South Webster Jr/Sr High School,2017,3,B,District,14,209
+91,125310,Troy Christian High School ,2017,3,B,District,5,209
+92,125310,Troy Christian High School ,2017,3,B,Regional,6,209
+93,37705,Twin Valley South High School,2017,3,B,District,15,211
+94,25148,Mogadore High School,2017,3,B,District,9,212
+95,450,Manchester High School,2017,3,B,District,15,213
+96,25437,Montpelier High School,2017,3,B,District,11,213
+97,26823,New London High School,2017,3,B,District,1,217
+98,26823,New London High School,2017,3,B,Regional,2,217
+99,26823,New London High School,2017,3,B,State,11,217
+100,29025,Paint Valley High School,2017,3,B,District,9,219
+101,28506,Old Fort High School,2017,3,B,District,4,222
+102,23515,McDonald High School,2017,3,B,District,1,224
+103,23515,McDonald High School,2017,3,B,Regional,2,224
+104,23515,McDonald High School,2017,3,B,State,2,224
+105,27060,Newcomerstown High School,2017,3,B,District,4,224
+106,8433,Patrick Henry High School,2017,3,B,District,5,224
+107,7666,Crestview High School,2017,3,B,District,4,226
+108,7666,Crestview High School,2017,3,B,Regional,22,226
+109,31815,Ripley-Union-Lewis-Huntington High School,2017,3,B,District,7,228
+110,29538,Peebles High School,2017,3,B,District,16,229
+111,60806,Maumee Valley Country Day ,2017,3,B,District,8,230
+112,16048,Hicksville High School,2017,3,B,District,5,233
+113,36095,Southern Local Jr/Sr High School,2017,3,B,District,9,233
+114,37697,Tri-County North High School,2017,3,B,District,29,233
+115,13755,Trimble High School,2017,3,B,District,2,234
+116,13755,Trimble High School,2017,3,B,Regional,7,234
+117,26849,Tri-Village High School,2017,3,B,District,23,237
+118,25155,Mohawk High School,2017,3,B,District,8,243
+119,26641,New Bremen High School,2017,3,B,District,6,244
+120,2501,Berne Union High School,2017,3,B,District,8,245
+121,20990,Lincolnview Jr/Sr High School,2017,3,B,District,1,245
+122,20990,Lincolnview Jr/Sr High School,2017,3,B,Regional,4,245
+123,20990,Lincolnview Jr/Sr High School,2017,3,B,State,14,245
+124,27961,Northwood High School,2017,3,B,District,12,245
+125,28399,Oberlin High School,2017,3,B,District,11,246
+126,2337,Belpre High School,2017,3,B,District,4,247
+127,2337,Belpre High School,2017,3,B,Regional,12,247
+128,9043,East Knox Junior/Senior High School,2017,3,B,District,5,248
+129,10173,Elgin High School,2017,3,B,District,4,250
+130,10173,Elgin High School,2017,3,B,Regional,10,250
+131,34314,Shenandoah High School,2017,3,B,District,6,251
+132,42044,Woodmore High School,2017,3,B,District,7,251
+133,42416,Yellow Springs/McKinney High School,2017,3,B,District,26,251
+134,22640,Mapleton High School,2017,3,B,District,2,252
+135,22640,Mapleton High School,2017,3,B,Regional,6,252
+136,24026,Mechanicsburg High School,2017,3,B,District,20,252
+137,6965,Col Crawford High School,2017,3,B,District,1,253
+138,6965,Col Crawford High School,2017,3,B,Regional,6,253
+139,6965,Col Crawford High School,2017,3,B,State,20,253
+140,11478,Federal Hocking High School,2017,3,B,District,18,253
+141,25114,Minster Jr/Sr High School,2017,3,B,District,1,257
+142,25114,Minster Jr/Sr High School,2017,3,B,Regional,3,257
+143,25114,Minster Jr/Sr High School,2017,3,B,State,18,257
+144,66555,Dayton Christian School ,2017,3,B,District,6,260
+145,16816,Hopewell-Loudon Local High School,2017,3,B,District,2,261
+146,16816,Hopewell-Loudon Local High School,2017,3,B,Regional,19,261
+147,8961,East Canton High School,2017,3,B,District,1,262
+148,8961,East Canton High School,2017,3,B,Regional,1,262
+149,8961,East Canton High School,2017,3,B,State,1,262
+150,1198,Seneca East High School,2017,3,B,District,3,263
+151,1198,Seneca East High School,2017,3,B,Regional,14,263
+152,8003,Dalton High School,2017,3,B,District,8,264
+153,11056,Fairfield Local High School,2017,3,B,District,1,264
+154,11056,Fairfield Local High School,2017,3,B,Regional,1,264
+155,11056,Fairfield Local High School,2017,3,B,State,4,264
+156,52894,Cincinnati Country Day ,2017,3,B,District,4,265
+157,52894,Cincinnati Country Day ,2017,3,B,Regional,10,265
+158,11288,Fairview High School,2017,3,B,District,1,265
+159,11288,Fairview High School,2017,3,B,Regional,8,265
+160,7823,Crooksville High School,2017,3,B,District,17,266
+161,13433,Gibsonburg High School,2017,3,B,District,8,267
+162,61317,Wellington High School,2017,3,B,District,8,267
+163,7104,Columbus Grove High School,2017,3,B,District,3,269
+164,7104,Columbus Grove High School,2017,3,B,Regional,13,269
+165,29280,Parkway High School,2017,3,B,District,2,269
+166,29280,Parkway High School,2017,3,B,Regional,9,269
+167,42341,Western Reserve High School,2017,3,B,District,6,269
+168,22863,Marion Local High School,2017,3,B,District,7,270
+169,12591,Fort Frye High School,2017,3,B,District,5,271
+170,35345,Spencerville High School,2017,3,B,District,5,271
+171,26468,National Trail High School,2017,3,B,District,6,273
+172,26468,National Trail High School,2017,3,B,Regional,7,273
+173,7021,Columbia High School,2017,3,B,District,5,274
+174,27722,Northmor High School,2017,3,B,District,3,274
+175,27722,Northmor High School,2017,3,B,Regional,9,274
+176,9134,East Palestine High School,2017,3,B,District,6,276
+177,19745,Lakota High School,2017,3,B,District,5,277
+178,12849,Garaway High School,2017,3,B,District,1,280
+179,12849,Garaway High School,2017,3,B,Regional,6,280
+180,42564,Buckeye Trail High School,2017,3,B,District,7,282
+181,25783,Mt Gilead High School,2017,3,B,District,1,282
+182,25783,Mt Gilead High School,2017,3,B,Regional,3,282
+183,25783,Mt Gilead High School,2017,3,B,State,6,282
+184,4853,Cardinal High School,2017,3,B,District,9,283
+185,3749,Brookfield High School,2017,3,B,District,12,284
+186,33944,North Adams High School,2017,3,B,District,13,285
+187,35659,St Henry High School,2017,3,B,District,2,285
+188,35659,St Henry High School,2017,3,B,Regional,5,285
+189,35659,St Henry High School,2017,3,B,State,16,285
+190,13326,Georgetown Jr/Sr High School,2017,3,B,District,3,286
+191,13326,Georgetown Jr/Sr High School,2017,3,B,Regional,13,286
+192,17160,Huntington High School,2017,3,B,District,8,286
+193,22764,Margaretta High School,2017,3,B,District,11,289
+194,52845,Central Catholic ,2017,3,B,District,3,290
+195,52845,Central Catholic ,2017,3,B,Regional,12,290
+196,919,Arcanum High School,2017,3,B,District,10,291
+197,7674,Crestview High School,2017,3,B,District,3,296
+198,7674,Crestview High School,2017,3,B,Regional,16,296
+199,12674,Fort Recovery High School,2017,3,B,District,8,299
+200,42366,Wynford High School,2017,3,B,District,6,300
+201,4861,Cardington-Lincoln High School,2017,3,B,District,4,301
+202,5298,Centerburg High School,2017,3,B,District,7,303
+203,4887,Carey High School,2017,3,B,District,3,306
+204,4887,Carey High School,2017,3,B,Regional,15,306
+205,37275,Tinora High School,2017,3,B,District,7,309
+206,7955,Cuyahoga Hts High School,2017,3,B,District,10,311
+207,20008,LaBrae High School,2017,3,B,District,3,311
+208,20008,LaBrae High School,2017,3,B,Regional,8,311
+209,30932,Pymatuning Valley High School,2017,3,B,District,6,311
+210,208,Adena High School,2017,3,B,District,11,312
+211,20297,Liberty Center High School,2017,3,B,District,1,312
+212,20297,Liberty Center High School,2017,3,B,Regional,1,312
+213,20297,Liberty Center High School,2017,3,B,State,5,312
+214,38893,West Union High School,2017,3,B,District,6,312
+215,38893,West Union High School,2017,3,B,Regional,16,312
+216,21816,Lynchburg-Clay High School,2017,3,B,District,19,313
+217,32607,Rootstown/Ward Davis Bldg High School,2017,3,B,District,2,314
+218,32607,Rootstown/Ward Davis Bldg High School,2017,3,B,Regional,7,314
+219,27656,Northeastern High School,2017,3,B,District,17,317
+220,8532,Dixie High School,2017,3,B,District,18,319
+221,10439,Elmwood High School,2017,3,B,District,8,323
+222,7062,Columbiana High School,2017,3,B,District,7,328
+223,10926,Fairbanks High School,2017,3,B,District,7,333
+224,3038,Bluffton High School,2017,3,B,District,9,334
+225,14100,Grandview Heights High School,2017,3,B,District,2,335
+226,14100,Grandview Heights High School,2017,3,B,Regional,4,335
+227,14100,Grandview Heights High School,2017,3,B,State,8,335
+228,37911,United High School,2017,3,B,District,5,337
+229,12450,Fredericktown High School,2017,3,B,District,2,339
+230,12450,Fredericktown High School,2017,3,B,Regional,5,339
+231,12450,Fredericktown High School,2017,3,B,State,13,339
+232,34793,Smithville High School,2017,3,B,District,3,340
+233,34793,Smithville High School,2017,3,B,Regional,3,340
+234,34793,Smithville High School,2017,3,B,State,12,340
+235,71001,Worthington Christian School ,2017,3,B,District,5,341
+236,10884,Evergreen High School,2017,3,B,District,10,347
+237,38232,Van Buren High School,2017,3,B,District,11,349
+238,28894,Ottawa Hills High School,2017,3,B,District,2,353
+239,28894,Ottawa Hills High School,2017,3,B,Regional,12,353
+240,25080,Minford High School,2017,3,B,District,3,359
+241,25080,Minford High School,2017,3,B,Regional,13,359
+242,8342,Pike-Delta-York High School,2017,3,B,District,4,361
+243,8342,Pike-Delta-York High School,2017,3,B,Regional,18,361
+244,38760,West Liberty-Salem Middle/High School,2017,3,B,District,7,361
+245,38760,West Liberty-Salem Middle/High School,2017,3,B,Regional,8,361
+246,53900,Summit Country Day ,2017,3,B,District,1,373
+247,53900,Summit Country Day ,2017,3,B,Regional,2,373
+248,53900,Summit Country Day ,2017,3,B,State,10,373
+249,476,Saint Martin de Porres High School ,2017,3,B,District,12,382
+250,1602,Barnesville High School,2017,3,B,District,3,383
+251,1602,Barnesville High School,2017,3,B,Regional,14,383
+252,52902,Seven Hills School ,2017,3,B,District,2,385
+253,52902,Seven Hills School ,2017,3,B,Regional,11,385
+254,19216,Kirtland High School,2017,3,B,District,7,395
+255,17491,Ironton High School,2017,3,B,District,12,399
+256,2576,Bethel High School,2017,3,B,District,9,403
+257,2576,Bethel High School,2017,3,B,Regional,12,403
+258,28076,Norwayne High School,2017,3,B,District,4,413
+259,28076,Norwayne High School,2017,3,B,Regional,11,413
+260,6858,Coldwater High School,2017,3,B,District,4,415
+261,6858,Coldwater High School,2017,3,B,Regional,23,415
+262,52704,Bishop Ready ,2017,3,B,District,10,421
+263,14571,Greenon High School,2017,3,B,District,4,428
+264,14571,Greenon High School,2017,3,B,Regional,4,428
+265,14571,Greenon High School,2017,3,B,State,17,428
+266,52910,Columbus Academy ,2017,3,B,District,1,431
+267,52910,Columbus Academy ,2017,3,B,Regional,2,431
+268,52910,Columbus Academy ,2017,3,B,State,3,431
+269,53660,Villa Angela-St Joseph ,2017,3,B,District,7,456
+270,52969,Elyria Catholic ,2017,3,B,District,4,458
+271,52969,Elyria Catholic ,2017,3,B,Regional,10,458
+272,20446,Liberty-Benton High School,2017,3,B,District,2,464
+273,20446,Liberty-Benton High School,2017,3,B,Regional,11,464
+274,52993,Gilmour Academy ,2017,3,B,District,1,497
+275,52993,Gilmour Academy ,2017,3,B,Regional,4,497
+276,52993,Gilmour Academy ,2017,3,B,State,9,497
+277,36152,Stivers School For The Arts,2017,3,B,District,11,531

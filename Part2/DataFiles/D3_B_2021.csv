@@ -1,0 +1,280 @@
+,BLDG_IRN,NAME,YEAR,DIVISION,GENDER,TYPE,PLACE,POPULATION
+0,97923,East Dayton Christian ,2021,3,B,District,21,79
+1,52860,Central Christian ,2021,3,B,District,7,95
+2,52860,Central Christian ,2021,3,B,Regional,-1,95
+3,134619,Emmanuel Christian Academy ,2021,3,B,District,19,104
+4,134619,Emmanuel Christian Academy ,2021,3,B,Regional,-1,104
+5,125278,Heartland Christian School ,2021,3,B,District,8,106
+6,13870,Fayette Jr/Sr High School,2021,3,B,District,3,109
+7,13870,Fayette Jr/Sr High School,2021,3,B,Regional,19,109
+8,17582,Jackson Center High School,2021,3,B,District,18,109
+9,17582,Jackson Center High School,2021,3,B,Regional,-1,109
+10,15172,Hardin Northern High School,2021,3,B,District,7,112
+11,23879,Mckinley High School,2021,3,B,District,13,112
+12,7617,Crestline High School,2021,3,B,District,13,115
+13,53116,Central Catholic Tuscarawas Co ,2021,3,B,District,4,116
+14,33050,Russia High School,2021,3,B,District,5,117
+15,33050,Russia High School,2021,3,B,Regional,8,117
+16,89722,Madison Christian School ,2021,3,B,District,8,123
+17,21717,Lucas High School,2021,3,B,District,7,124
+18,40097,Waynesfield-Goshen Local High School,2021,3,B,District,9,126
+19,16568,Holgate High School,2021,3,B,District,1,128
+20,16568,Holgate High School,2021,3,B,Regional,2,128
+21,16568,Holgate High School,2021,3,B,State,5,128
+22,84202,Middletown Christian ,2021,3,B,District,13,129
+23,16436,Hilltop High School,2021,3,B,District,8,131
+24,53751,Sandusky Central Catholic School ,2021,3,B,District,12,132
+25,52670,Wm V Fisher Catholic ,2021,3,B,District,2,138
+26,52670,Wm V Fisher Catholic ,2021,3,B,Regional,4,138
+27,52670,Wm V Fisher Catholic ,2021,3,B,State,16,138
+28,26955,New Riegel High School,2021,3,B,District,1,139
+29,26955,New Riegel High School,2021,3,B,Regional,6,139
+30,26955,New Riegel High School,2021,3,B,State,13,139
+31,29793,Pettisville High School,2021,3,B,District,4,141
+32,126615,Miami Valley Christian Academy ,2021,3,B,District,3,142
+33,126615,Miami Valley Christian Academy ,2021,3,B,Regional,11,142
+34,42333,Western Reserve High School,2021,3,B,District,12,145
+35,67546,Legacy Christian Academy ,2021,3,B,District,7,147
+36,67546,Legacy Christian Academy ,2021,3,B,Regional,9,147
+37,18606,Kalida High School,2021,3,B,District,5,148
+38,90274,Open Door Christian Schools ,2021,3,B,District,3,148
+39,90274,Open Door Christian Schools ,2021,3,B,Regional,7,148
+40,12377,Franklin Monroe High School,2021,3,B,District,14,153
+41,67637,The Miami Valley School ,2021,3,B,District,8,153
+42,134510,Fairfield Christian Academy ,2021,3,B,District,6,157
+43,67629,Mansfield Christian School ,2021,3,B,District,9,157
+44,27169,Newton High School,2021,3,B,District,11,158
+45,62471,Lake Ridge Academy ,2021,3,B,District,8,162
+46,62471,Lake Ridge Academy ,2021,3,B,Regional,-1,162
+47,5173,Cedarville High School,2021,3,B,District,6,165
+48,5173,Cedarville High School,2021,3,B,Regional,7,165
+49,53082,Lehman High School ,2021,3,B,District,16,165
+50,26112,North Central Junior/High School,2021,3,B,District,10,165
+51,39750,Waterford High School,2021,3,B,District,2,165
+52,39750,Waterford High School,2021,3,B,Regional,13,165
+53,41004,Whiteoak High School,2021,3,B,District,1,169
+54,41004,Whiteoak High School,2021,3,B,Regional,5,169
+55,41004,Whiteoak High School,2021,3,B,State,15,169
+56,30429,Plymouth High School,2021,3,B,District,11,171
+57,844,Antwerp Local High School,2021,3,B,District,7,174
+58,4085,Buckeye Central High School,2021,3,B,District,8,174
+59,53645,St John Elementary and High School ,2021,3,B,District,6,174
+60,9589,Eastern High School,2021,3,B,District,7,176
+61,9894,Edgerton High School,2021,3,B,District,6,179
+62,52613,Andrews Osborne Academy ,2021,3,B,District,11,181
+63,3228,Botkins High School,2021,3,B,District,2,183
+64,3228,Botkins High School,2021,3,B,Regional,2,183
+65,3228,Botkins High School,2021,3,B,State,6,183
+66,64915,Lake Center Christian School ,2021,3,B,District,7,183
+67,23218,Mathews High School,2021,3,B,District,7,184
+68,23218,Mathews High School,2021,3,B,Regional,-1,184
+69,17798,Jackson-Milton High School,2021,3,B,District,10,188
+70,17798,Jackson-Milton High School,2021,3,B,Regional,-1,188
+71,36749,Symmes Valley High School,2021,3,B,District,19,189
+72,70409,Cincinnati Christian Schools ,2021,3,B,District,9,190
+73,70409,Cincinnati Christian Schools ,2021,3,B,Regional,-1,190
+74,15156,Houston High School,2021,3,B,District,8,192
+75,15156,Houston High School,2021,3,B,Regional,10,192
+76,778,Ansonia High School,2021,3,B,District,13,195
+77,1446,Badger High School,2021,3,B,District,8,195
+78,12641,Fort Loramie Junior-Senior High School,2021,3,B,District,1,197
+79,12641,Fort Loramie Junior-Senior High School,2021,3,B,Regional,1,197
+80,12641,Fort Loramie Junior-Senior High School,2021,3,B,State,3,197
+81,22681,Maplewood High School,2021,3,B,District,1,197
+82,22681,Maplewood High School,2021,3,B,Regional,4,197
+83,22681,Maplewood High School,2021,3,B,State,17,197
+84,7534,Covington High School,2021,3,B,District,9,199
+85,7534,Covington High School,2021,3,B,Regional,-1,199
+86,9571,Eastern High School,2021,3,B,District,10,207
+87,53769,Norwalk Catholic School ,2021,3,B,District,1,207
+88,53769,Norwalk Catholic School ,2021,3,B,Regional,3,207
+89,53769,Norwalk Catholic School ,2021,3,B,State,9,207
+90,4556,Caldwell High School,2021,3,B,District,5,208
+91,11502,Felicity-Franklin Local  High School,2021,3,B,District,15,209
+92,53355,Newark Catholic ,2021,3,B,District,9,209
+93,2873,South Webster Jr/Sr High School,2021,3,B,District,17,209
+94,25148,Mogadore High School,2021,3,B,District,5,212
+95,25148,Mogadore High School,2021,3,B,Regional,13,212
+96,35584,St Bernard-Elmwood Place High School,2021,3,B,District,14,212
+97,450,Manchester High School,2021,3,B,District,14,213
+98,25437,Montpelier High School,2021,3,B,District,5,213
+99,31831,Rittman High School,2021,3,B,District,9,214
+100,26823,New London High School,2021,3,B,District,3,217
+101,26823,New London High School,2021,3,B,Regional,12,217
+102,90209,The Wellington School ,2021,3,B,District,7,221
+103,28506,Old Fort High School,2021,3,B,District,2,222
+104,23515,McDonald High School,2021,3,B,District,2,224
+105,23515,McDonald High School,2021,3,B,Regional,5,224
+106,27060,Newcomerstown High School,2021,3,B,District,7,224
+107,8433,Patrick Henry High School,2021,3,B,District,9,224
+108,7666,Crestview High School,2021,3,B,District,6,226
+109,31815,Ripley-Union-Lewis-Huntington High School,2021,3,B,District,11,228
+110,29538,Peebles High School,2021,3,B,District,15,229
+111,60806,Maumee Valley Country Day ,2021,3,B,District,6,230
+112,16048,Hicksville High School,2021,3,B,District,5,233
+113,36095,Southern Local Jr/Sr High School,2021,3,B,District,6,233
+114,37697,Tri-County North High School,2021,3,B,District,20,233
+115,112227,Grove City Christian ,2021,3,B,District,10,240
+116,25155,Mohawk High School,2021,3,B,District,7,243
+117,26641,New Bremen High School,2021,3,B,District,2,244
+118,26641,New Bremen High School,2021,3,B,Regional,9,244
+119,2501,Berne Union High School,2021,3,B,District,4,245
+120,20990,Lincolnview Jr/Sr High School,2021,3,B,District,1,245
+121,20990,Lincolnview Jr/Sr High School,2021,3,B,Regional,10,245
+122,27961,Northwood High School,2021,3,B,District,7,245
+123,2337,Belpre High School,2021,3,B,District,4,247
+124,2337,Belpre High School,2021,3,B,Regional,12,247
+125,9043,East Knox Junior/Senior High School,2021,3,B,District,3,248
+126,9043,East Knox Junior/Senior High School,2021,3,B,Regional,10,248
+127,10173,Elgin High School,2021,3,B,District,5,250
+128,34314,Shenandoah High School,2021,3,B,District,9,251
+129,22640,Mapleton High School,2021,3,B,District,5,252
+130,22640,Mapleton High School,2021,3,B,Regional,-1,252
+131,24026,Mechanicsburg High School,2021,3,B,District,4,252
+132,24026,Mechanicsburg High School,2021,3,B,Regional,3,252
+133,24026,Mechanicsburg High School,2021,3,B,State,19,252
+134,6965,Col Crawford High School,2021,3,B,District,5,253
+135,11478,Federal Hocking High School,2021,3,B,District,8,253
+136,25114,Minster Jr/Sr High School,2021,3,B,District,3,257
+137,25114,Minster Jr/Sr High School,2021,3,B,Regional,5,257
+138,25114,Minster Jr/Sr High School,2021,3,B,State,11,257
+139,66555,Dayton Christian School ,2021,3,B,District,1,260
+140,66555,Dayton Christian School ,2021,3,B,Regional,6,260
+141,29470,Wayne Trace High School,2021,3,B,District,9,260
+142,16816,Hopewell-Loudon Local High School,2021,3,B,District,9,261
+143,8961,East Canton High School,2021,3,B,District,1,262
+144,8961,East Canton High School,2021,3,B,Regional,1,262
+145,8961,East Canton High School,2021,3,B,State,1,262
+146,1198,Seneca East High School,2021,3,B,District,2,263
+147,1198,Seneca East High School,2021,3,B,Regional,8,263
+148,8003,Dalton High School,2021,3,B,District,4,264
+149,8003,Dalton High School,2021,3,B,Regional,8,264
+150,11056,Fairfield Local High School,2021,3,B,District,9,264
+151,52894,Cincinnati Country Day ,2021,3,B,District,5,265
+152,52894,Cincinnati Country Day ,2021,3,B,Regional,13,265
+153,11288,Fairview High School,2021,3,B,District,2,265
+154,11288,Fairview High School,2021,3,B,Regional,14,265
+155,7823,Crooksville High School,2021,3,B,District,20,266
+156,13433,Gibsonburg High School,2021,3,B,District,4,267
+157,13433,Gibsonburg High School,2021,3,B,Regional,21,267
+158,61317,Wellington High School,2021,3,B,District,15,267
+159,41442,Williamsburg High School,2021,3,B,District,12,267
+160,41442,Williamsburg High School,2021,3,B,Regional,-1,267
+161,7104,Columbus Grove High School,2021,3,B,District,1,269
+162,7104,Columbus Grove High School,2021,3,B,Regional,1,269
+163,7104,Columbus Grove High School,2021,3,B,State,4,269
+164,29280,Parkway High School,2021,3,B,District,4,269
+165,37531,Triad High School,2021,3,B,District,17,269
+166,37531,Triad High School,2021,3,B,Regional,-1,269
+167,42341,Western Reserve High School,2021,3,B,District,6,269
+168,22863,Marion Local High School,2021,3,B,District,3,270
+169,22863,Marion Local High School,2021,3,B,Regional,15,270
+170,12591,Fort Frye High School,2021,3,B,District,8,271
+171,35345,Spencerville High School,2021,3,B,District,8,271
+172,7021,Columbia High School,2021,3,B,District,6,274
+173,7021,Columbia High School,2021,3,B,Regional,-1,274
+174,25023,Mineral Ridge High School,2021,3,B,District,5,274
+175,25023,Mineral Ridge High School,2021,3,B,Regional,-1,274
+176,27722,Northmor High School,2021,3,B,District,4,274
+177,19745,Lakota High School,2021,3,B,District,8,277
+178,4184,Bucyrus Secondary School,2021,3,B,District,10,279
+179,12849,Garaway High School,2021,3,B,District,1,280
+180,12849,Garaway High School,2021,3,B,Regional,6,280
+181,42564,Buckeye Trail High School,2021,3,B,District,6,282
+182,25783,Mt Gilead High School,2021,3,B,District,1,282
+183,25783,Mt Gilead High School,2021,3,B,Regional,1,282
+184,25783,Mt Gilead High School,2021,3,B,State,2,282
+185,2782,Black River High School,2021,3,B,District,1,283
+186,2782,Black River High School,2021,3,B,Regional,2,283
+187,2782,Black River High School,2021,3,B,State,10,283
+188,3749,Brookfield High School,2021,3,B,District,10,284
+189,33944,North Adams High School,2021,3,B,District,6,285
+190,33944,North Adams High School,2021,3,B,Regional,15,285
+191,35659,St Henry High School,2021,3,B,District,8,285
+192,13326,Georgetown Jr/Sr High School,2021,3,B,District,6,286
+193,17160,Huntington High School,2021,3,B,District,11,286
+194,22764,Margaretta High School,2021,3,B,District,6,289
+195,52845,Central Catholic ,2021,3,B,District,2,290
+196,52845,Central Catholic ,2021,3,B,Regional,6,290
+197,919,Arcanum High School,2021,3,B,District,15,291
+198,14498,Greeneview High School,2021,3,B,District,12,293
+199,7674,Crestview High School,2021,3,B,District,4,296
+200,7674,Crestview High School,2021,3,B,Regional,13,296
+201,12674,Fort Recovery High School,2021,3,B,District,7,299
+202,364,Allen East High School,2021,3,B,District,5,300
+203,4861,Cardington-Lincoln High School,2021,3,B,District,8,301
+204,5298,Centerburg High School,2021,3,B,District,1,303
+205,5298,Centerburg High School,2021,3,B,Regional,2,303
+206,5298,Centerburg High School,2021,3,B,State,20,303
+207,4887,Carey High School,2021,3,B,District,5,306
+208,4887,Carey High School,2021,3,B,Regional,20,306
+209,37275,Tinora High School,2021,3,B,District,3,309
+210,37275,Tinora High School,2021,3,B,Regional,16,309
+211,37275,Tinora High School,2021,3,B,State,-1,309
+212,752,Anna High School,2021,3,B,District,3,311
+213,752,Anna High School,2021,3,B,Regional,4,311
+214,752,Anna High School,2021,3,B,State,14,311
+215,7955,Cuyahoga Hts High School,2021,3,B,District,13,311
+216,20008,LaBrae High School,2021,3,B,District,9,311
+217,30932,Pymatuning Valley High School,2021,3,B,District,6,311
+218,208,Adena High School,2021,3,B,District,16,312
+219,20297,Liberty Center High School,2021,3,B,District,4,312
+220,20297,Liberty Center High School,2021,3,B,Regional,17,312
+221,38893,West Union High School,2021,3,B,District,18,312
+222,21816,Lynchburg-Clay High School,2021,3,B,District,12,313
+223,40071,Waynedale High School,2021,3,B,District,10,317
+224,40071,Waynedale High School,2021,3,B,Regional,-1,317
+225,27771,Northridge High School,2021,3,B,District,7,318
+226,146480,Rock Hill Sr High School,2021,3,B,District,3,319
+227,146480,Rock Hill Sr High School,2021,3,B,Regional,9,319
+228,2139,Bellaire High School,2021,3,B,District,10,324
+229,37663,Tuscarawas Valley High School,2021,3,B,District,2,327
+230,37663,Tuscarawas Valley High School,2021,3,B,Regional,11,327
+231,7062,Columbiana High School,2021,3,B,District,9,328
+232,17285,Independence High School,2021,3,B,District,12,328
+233,10926,Fairbanks High School,2021,3,B,District,5,333
+234,3038,Bluffton High School,2021,3,B,District,2,334
+235,3038,Bluffton High School,2021,3,B,Regional,7,334
+236,3038,Bluffton High School,2021,3,B,State,12,334
+237,14100,Grandview Heights High School,2021,3,B,District,3,335
+238,14100,Grandview Heights High School,2021,3,B,Regional,8,335
+239,37911,United High School,2021,3,B,District,4,337
+240,37911,United High School,2021,3,B,Regional,11,337
+241,12450,Fredericktown High School,2021,3,B,District,2,339
+242,12450,Fredericktown High School,2021,3,B,Regional,3,339
+243,12450,Fredericktown High School,2021,3,B,State,18,339
+244,34793,Smithville High School,2021,3,B,District,2,340
+245,34793,Smithville High School,2021,3,B,Regional,10,340
+246,71001,Worthington Christian School ,2021,3,B,District,6,341
+247,38232,Van Buren High School,2021,3,B,District,3,349
+248,38232,Van Buren High School,2021,3,B,Regional,18,349
+249,28894,Ottawa Hills High School,2021,3,B,District,1,353
+250,28894,Ottawa Hills High School,2021,3,B,Regional,4,353
+251,28894,Ottawa Hills High School,2021,3,B,State,8,353
+252,26229,South Range High School,2021,3,B,District,3,354
+253,26229,South Range High School,2021,3,B,Regional,3,354
+254,26229,South Range High School,2021,3,B,State,7,354
+255,935,Archbold High School,2021,3,B,District,2,357
+256,935,Archbold High School,2021,3,B,Regional,11,357
+257,8342,Pike-Delta-York High School,2021,3,B,District,8,361
+258,53900,Summit Country Day ,2021,3,B,District,2,373
+259,53900,Summit Country Day ,2021,3,B,Regional,5,373
+260,1602,Barnesville High School,2021,3,B,District,3,383
+261,1602,Barnesville High School,2021,3,B,Regional,7,383
+262,52902,Seven Hills School ,2021,3,B,District,4,385
+263,52902,Seven Hills School ,2021,3,B,Regional,12,385
+264,24372,Miami East High School,2021,3,B,District,10,394
+265,24372,Miami East High School,2021,3,B,Regional,-1,394
+266,22418,Manchester High School,2021,3,B,District,11,395
+267,11114,Fairland High School,2021,3,B,District,5,408
+268,11114,Fairland High School,2021,3,B,Regional,14,408
+269,28076,Norwayne High School,2021,3,B,District,14,413
+270,40931,Wheelersburg High School,2021,3,B,District,13,413
+271,2436,Berkshire High School,2021,3,B,District,4,414
+272,2436,Berkshire High School,2021,3,B,Regional,12,414
+273,6858,Coldwater High School,2021,3,B,District,4,415
+274,98590,Clark Montessori High School,2021,3,B,District,10,427
+275,52969,Elyria Catholic ,2021,3,B,District,11,458
+276,122697,Cincinnati Hills Christian Academy ,2021,3,B,District,7,459
+277,52993,Gilmour Academy ,2021,3,B,District,3,497
+278,52993,Gilmour Academy ,2021,3,B,Regional,9,497

@@ -5,6 +5,11 @@ by Matt Kretchmar, Zhe Wang, and John Platt
 
 
 --------------------------------------------------------------------------
+PAPER:
+--------------------------------------------------------------------------
+StatisticalEquity.pdf
+
+--------------------------------------------------------------------------
 DATABASE:
 --------------------------------------------------------------------------
 OH_XC.sql.gz
@@ -56,4 +61,7 @@ We have 30 files that are .csv files.  They correspond to the 30 different exper
 They contain all the schools from the Ohio XC race database that competed post-season during this five year period.
 
 We have 30 files that are .txt files.  The correspond to the same 30 different experiments above.  These .txt files contain counts of how each team finished in 10,000 different simulated seasons.  The simulation is carried out using proportionality.  These files allow us to compute EXPECTED counts for the 9-grid table.  
+
+Note: *** These files are stored in a DataFiles subdirectory on the repository, but the notebooks will expect them to be in the same directory as the notebooks.  ***
+
 

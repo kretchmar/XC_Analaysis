@@ -1,0 +1,253 @@
+,BLDG_IRN,NAME,YEAR,DIVISION,GENDER,TYPE,PLACE,POPULATION
+0,53272,Mercy McAuley High School ,2021,1,G,District,5,420
+1,53272,Mercy McAuley High School ,2021,1,G,Regional,17,420
+2,53843,St Ursula Academy ,2021,1,G,District,4,451
+3,53843,St Ursula Academy ,2021,1,G,Regional,-1,451
+4,53942,Ursuline Academy ,2021,1,G,District,6,503
+5,53942,Ursuline Academy ,2021,1,G,Regional,-1,503
+6,53389,Notre Dame Academy ,2021,1,G,District,1,530
+7,53389,Notre Dame Academy ,2021,1,G,Regional,2,530
+8,53389,Notre Dame Academy ,2021,1,G,State,18,530
+9,53884,Seton ,2021,1,G,District,9,631
+10,53835,St Ursula Academy ,2021,1,G,District,2,646
+11,53835,St Ursula Academy ,2021,1,G,Regional,6,646
+12,4127,Buckeye High School,2021,1,G,District,14,678
+13,22798,Marietta High School,2021,1,G,District,9,680
+14,53702,St Joseph Academy ,2021,1,G,District,3,682
+15,53702,St Joseph Academy ,2021,1,G,Regional,18,682
+16,53215,Magnificat ,2021,1,G,District,10,695
+17,26906,New Philadelphia High School,2021,1,G,District,13,725
+18,53322,Mount Notre Dame ,2021,1,G,District,7,726
+19,42598,Zanesville High School,2021,1,G,District,15,737
+20,25866,Western Brown High School,2021,1,G,District,9,760
+21,12310,Franklin High School,2021,1,G,District,13,761
+22,36988,Tecumseh High School,2021,1,G,District,15,763
+23,4796,Canfield High School,2021,1,G,District,16,773
+24,24596,Midview High School,2021,1,G,District,19,774
+25,17004,Howland High School,2021,1,G,District,13,781
+26,1792,Bay High School,2021,1,G,District,7,783
+27,1792,Bay High School,2021,1,G,Regional,13,783
+28,8722,Dover High School,2021,1,G,District,12,798
+29,3285,Bowling Green High School,2021,1,G,District,3,805
+30,3285,Bowling Green High School,2021,1,G,Regional,5,805
+31,139311,Monroe High School,2021,1,G,District,11,809
+32,21576,Louisville High School,2021,1,G,District,15,817
+33,18770,Kenston High School,2021,1,G,District,4,821
+34,18770,Kenston High School,2021,1,G,Regional,16,821
+35,39164,Wapakoneta High School,2021,1,G,District,8,826
+36,4416,Butler High School,2021,1,G,District,11,841
+37,2154,Bellbrook High School,2021,1,G,District,10,847
+38,6296,Chillicothe High School,2021,1,G,District,10,856
+39,32243,Rocky River High School,2021,1,G,District,4,872
+40,32243,Rocky River High School,2021,1,G,Regional,7,872
+41,32243,Rocky River High School,2021,1,G,State,7,872
+42,32755,Ross High School,2021,1,G,District,10,881
+43,1081,Ashland High School,2021,1,G,District,7,886
+44,30098,Piqua High School,2021,1,G,District,14,888
+45,53587,St Francis De Sales ,2021,1,G,District,8,893
+46,7054,Columbian High School,2021,1,G,District,3,900
+47,7054,Columbian High School,2021,1,G,Regional,4,900
+48,22178,Madison High School,2021,1,G,District,9,903
+49,22178,Madison High School,2021,1,G,Regional,-1,903
+50,36863,Talawanda High School,2021,1,G,District,6,908
+51,36863,Talawanda High School,2021,1,G,Regional,14,908
+52,42218,Wooster High School,2021,1,G,District,10,909
+53,22111,Madison High School,2021,1,G,District,11,912
+54,7310,Copley High School,2021,1,G,District,18,917
+55,52720,Bishop Watterson ,2021,1,G,District,7,933
+56,34561,Sidney High School,2021,1,G,District,12,947
+57,5876,Chardon High School,2021,1,G,District,5,949
+58,5876,Chardon High School,2021,1,G,Regional,11,949
+59,21246,Logan High School,2021,1,G,District,10,958
+60,1297,Aurora High School,2021,1,G,District,3,966
+61,1297,Aurora High School,2021,1,G,Regional,15,966
+62,42408,Xenia High School,2021,1,G,District,18,981
+63,23119,Marysville High School,2021,1,G,District,3,982
+64,23119,Marysville High School,2021,1,G,Regional,10,982
+65,25932,Mount Vernon High School,2021,1,G,District,9,994
+66,35477,Springfield High School,2021,1,G,District,8,1003
+67,40964,Whetstone High School,2021,1,G,District,14,1004
+68,16154,Highland High School,2021,1,G,District,16,1006
+69,62489,Walsh Jesuit ,2021,1,G,District,17,1012
+70,12500,Fremont Ross High School,2021,1,G,District,5,1021
+71,12500,Fremont Ross High School,2021,1,G,Regional,-1,1021
+72,15214,Harding High School,2021,1,G,District,16,1031
+73,42796,Fairborn High School,2021,1,G,District,17,1051
+74,22871,Marion L Steele High School,2021,1,G,District,9,1066
+75,22871,Marion L Steele High School,2021,1,G,Regional,21,1066
+76,68502,Turpin High School,2021,1,G,District,4,1080
+77,68502,Turpin High School,2021,1,G,Regional,13,1080
+78,68551,Sylvania Southview High School,2021,1,G,District,5,1082
+79,68551,Sylvania Southview High School,2021,1,G,Regional,-1,1082
+80,3996,Brush High School,2021,1,G,District,16,1086
+81,40758,Westlake High School,2021,1,G,District,5,1089
+82,40758,Westlake High School,2021,1,G,Regional,8,1089
+83,40758,Westlake High School,2021,1,G,State,15,1089
+84,37598,Troy High School,2021,1,G,District,8,1130
+85,37598,Troy High School,2021,1,G,Regional,-1,1130
+86,61812,Lake Middle / High School,2021,1,G,District,7,1136
+87,61812,Lake Middle / High School,2021,1,G,Regional,19,1136
+88,6494,Clay High School,2021,1,G,District,4,1137
+89,6494,Clay High School,2021,1,G,Regional,-1,1137
+90,2709,Big Walnut High School,2021,1,G,District,2,1143
+91,2709,Big Walnut High School,2021,1,G,Regional,4,1143
+92,2709,Big Walnut High School,2021,1,G,State,19,1143
+93,38109,Valley Forge High School,2021,1,G,District,22,1143
+94,28605,Olmsted Falls High School,2021,1,G,District,13,1153
+95,41368,William Henry Harrison High School,2021,1,G,District,12,1158
+96,4770,Canal Winchester High School,2021,1,G,District,6,1182
+97,4770,Canal Winchester High School,2021,1,G,Regional,16,1182
+98,3467,Brecksville-Broadview Heights High School,2021,1,G,District,10,1203
+99,36962,Teays Valley High School,2021,1,G,District,13,1206
+100,687,Anderson High School,2021,1,G,District,7,1208
+101,26302,North Olmsted High School,2021,1,G,District,15,1208
+102,1388,Avon Lake High School,2021,1,G,District,8,1213
+103,1388,Avon Lake High School,2021,1,G,Regional,14,1213
+104,27334,Nordonia High School,2021,1,G,District,12,1215
+105,27573,North High School,2021,1,G,District,14,1215
+106,3061,Boardman High School,2021,1,G,District,8,1216
+107,11791,Fitch High School,2021,1,G,District,12,1223
+108,14365,Green High School,2021,1,G,District,6,1234
+109,11692,Firestone High School,2021,1,G,District,14,1236
+110,26336,North Ridgeville High School,2021,1,G,District,21,1241
+111,32508,Theodore Roosevelt High School,2021,1,G,District,18,1244
+112,1545,Barberton High School,2021,1,G,District,19,1254
+113,7930,Cuyahoga Falls High School,2021,1,G,District,17,1254
+114,810,Anthony Wayne High School,2021,1,G,District,2,1268
+115,810,Anthony Wayne High School,2021,1,G,Regional,3,1268
+116,136101,Twinsburg High School,2021,1,G,District,8,1291
+117,39842,Watkins Memorial High School,2021,1,G,District,4,1320
+118,39842,Watkins Memorial High School,2021,1,G,Regional,11,1320
+119,20461,Licking Heights High School,2021,1,G,District,14,1325
+120,21600,Loveland High School,2021,1,G,District,1,1326
+121,21600,Loveland High School,2021,1,G,Regional,1,1326
+122,21600,Loveland High School,2021,1,G,State,2,1326
+123,35865,Start High School,2021,1,G,District,7,1337
+124,35865,Start High School,2021,1,G,Regional,-1,1337
+125,120485,Dublin Scioto High School,2021,1,G,District,6,1340
+126,120485,Dublin Scioto High School,2021,1,G,Regional,17,1340
+127,98640,Kings High School,2021,1,G,District,8,1340
+128,19687,Lakewood High School,2021,1,G,District,11,1355
+129,36707,Sylvania Northview High School,2021,1,G,District,6,1362
+130,112094,Worthington Kilbourne High School,2021,1,G,District,5,1364
+131,112094,Worthington Kilbourne High School,2021,1,G,Regional,9,1364
+132,10660,North Royalton High School,2021,1,G,District,12,1372
+133,21113,Little Miami High School,2021,1,G,District,6,1393
+134,21113,Little Miami High School,2021,1,G,Regional,-1,1393
+135,27698,Northmont High School,2021,1,G,District,5,1426
+136,27698,Northmont High School,2021,1,G,Regional,11,1426
+137,16758,Hoover High School,2021,1,G,District,13,1436
+138,27011,Newark High School,2021,1,G,District,3,1436
+139,27011,Newark High School,2021,1,G,Regional,8,1436
+140,29702,Perry High School,2021,1,G,District,11,1439
+141,31989,Riverside Jr/Sr High School,2021,1,G,District,9,1446
+142,17095,Hudson High School,2021,1,G,District,5,1455
+143,17095,Hudson High School,2021,1,G,Regional,20,1455
+144,1370,Avon High School,2021,1,G,District,3,1467
+145,1370,Avon High School,2021,1,G,Regional,9,1467
+146,34835,Solon High School,2021,1,G,District,6,1507
+147,34835,Solon High School,2021,1,G,Regional,17,1507
+148,16941,Olentangy Berlin High School,2021,1,G,District,3,1544
+149,16941,Olentangy Berlin High School,2021,1,G,Regional,7,1544
+150,40675,Westerville-South High School,2021,1,G,District,6,1547
+151,67959,Westerville-North High School,2021,1,G,District,5,1549
+152,67959,Westerville-North High School,2021,1,G,Regional,15,1549
+153,24422,Miamisburg High School,2021,1,G,District,9,1553
+154,34108,Shaker Hts High School,2021,1,G,District,1,1554
+155,34108,Shaker Hts High School,2021,1,G,Regional,1,1554
+156,34108,Shaker Hts High School,2021,1,G,State,3,1554
+157,38935,Wadsworth High School,2021,1,G,District,4,1566
+158,38935,Wadsworth High School,2021,1,G,Regional,10,1566
+159,29744,Perrysburg High School,2021,1,G,District,1,1569
+160,29744,Perrysburg High School,2021,1,G,Regional,1,1569
+161,29744,Perrysburg High School,2021,1,G,State,1,1569
+162,36640,Sycamore High School,2021,1,G,District,5,1582
+163,36640,Sycamore High School,2021,1,G,Regional,15,1582
+164,123539,Hilliard Darby High School,2021,1,G,District,8,1585
+165,145086,Pickerington High School North,2021,1,G,District,1,1585
+166,145086,Pickerington High School North,2021,1,G,Regional,3,1585
+167,145086,Pickerington High School North,2021,1,G,State,17,1585
+168,15842,Cleveland Heights High School,2021,1,G,District,17,1595
+169,35527,Springfield High School,2021,1,G,District,19,1598
+170,23325,Mayfield High School,2021,1,G,District,7,1599
+171,20032,Lebanon High School,2021,1,G,District,3,1610
+172,20032,Lebanon High School,2021,1,G,Regional,5,1610
+173,20032,Lebanon High School,2021,1,G,State,13,1610
+174,146183,Westerville Central High School,2021,1,G,District,11,1622
+175,30155,New Albany High School,2021,1,G,District,8,1630
+176,28548,Olentangy High School,2021,1,G,District,11,1637
+177,1966,Beavercreek High School,2021,1,G,District,1,1644
+178,1966,Beavercreek High School,2021,1,G,Regional,2,1644
+179,1966,Beavercreek High School,2021,1,G,State,4,1644
+180,33084,Rutherford B Hayes High School,2021,1,G,District,9,1648
+181,40048,Wayne High School,2021,1,G,District,16,1671
+182,9091,Hilliard Bradley High School,2021,1,G,District,12,1695
+183,10819,Euclid High School,2021,1,G,District,15,1712
+184,36210,Stow-Munroe Falls High School,2021,1,G,District,1,1731
+185,36210,Stow-Munroe Falls High School,2021,1,G,Regional,6,1731
+186,36210,Stow-Munroe Falls High School,2021,1,G,State,10,1731
+187,42283,Thomas Worthington High School,2021,1,G,District,4,1743
+188,42283,Thomas Worthington High School,2021,1,G,Regional,14,1743
+189,6890,Colerain High School,2021,1,G,District,12,1758
+190,29876,Pickerington High School Central,2021,1,G,District,10,1799
+191,24570,Berea-Midpark High School,2021,1,G,District,20,1801
+192,19752,Lancaster High School,2021,1,G,District,5,1816
+193,19752,Lancaster High School,2021,1,G,Regional,12,1816
+194,61325,Grove City High School,2021,1,G,District,15,1847
+195,64758,Dublin Coffman High School,2021,1,G,District,1,1850
+196,64758,Dublin Coffman High School,2021,1,G,Regional,1,1850
+197,64758,Dublin Coffman High School,2021,1,G,State,14,1850
+198,11627,Findlay High School,2021,1,G,District,2,1865
+199,11627,Findlay High School,2021,1,G,Regional,6,1865
+200,37945,Upper Arlington High School,2021,1,G,District,4,1867
+201,37945,Upper Arlington High School,2021,1,G,Regional,13,1867
+202,36277,Strongsville High School,2021,1,G,District,6,1874
+203,36277,Strongsville High School,2021,1,G,Regional,12,1874
+204,16303,Hilliard Davidson High School,2021,1,G,District,1,1877
+205,16303,Hilliard Davidson High School,2021,1,G,Regional,2,1877
+206,16303,Hilliard Davidson High School,2021,1,G,State,5,1877
+207,146928,Dublin Jerome High School,2021,1,G,District,7,1904
+208,145953,Olentangy Liberty High School,2021,1,G,District,2,1922
+209,145953,Olentangy Liberty High School,2021,1,G,Regional,5,1922
+210,145953,Olentangy Liberty High School,2021,1,G,State,20,1922
+211,9286,Orange High School,2021,1,G,District,2,1926
+212,9286,Orange High School,2021,1,G,Regional,6,1926
+213,39073,Walnut Hills High School,2021,1,G,District,2,1927
+214,39073,Walnut Hills High School,2021,1,G,Regional,8,1927
+215,24745,Milford Sr High School,2021,1,G,District,3,1960
+216,24745,Milford Sr High School,2021,1,G,Regional,9,1960
+217,6593,Springboro High School,2021,1,G,District,4,1972
+218,6593,Springboro High School,2021,1,G,Regional,7,1972
+219,6593,Springboro High School,2021,1,G,State,-1,1972
+220,17772,Jackson High School,2021,1,G,District,2,1979
+221,17772,Jackson High School,2021,1,G,Regional,4,1979
+222,17772,Jackson High School,2021,1,G,State,9,1979
+223,3970,Brunswick High School,2021,1,G,District,2,1988
+224,3970,Brunswick High School,2021,1,G,Regional,2,1988
+225,3970,Brunswick High School,2021,1,G,State,12,1988
+226,24075,Medina High School,2021,1,G,District,1,2010
+227,24075,Medina High School,2021,1,G,Regional,3,2010
+228,24075,Medina High School,2021,1,G,State,11,2010
+229,28365,GlenOak High School,2021,1,G,District,9,2115
+230,11049,Fairfield High School,2021,1,G,District,10,2128
+231,36822,Hamilton High School,2021,1,G,District,13,2169
+232,13532,West Clermont High School,2021,1,G,District,11,2189
+233,41046,Whitmer High School,2021,1,G,District,6,2203
+234,28217,Oak Hills High School,2021,1,G,District,3,2260
+235,28217,Oak Hills High School,2021,1,G,Regional,10,2260
+236,20883,Lincoln High School,2021,1,G,District,7,2323
+237,18929,Kettering Fairmont High School,2021,1,G,District,7,2399
+238,18929,Kettering Fairmont High School,2021,1,G,Regional,16,2399
+239,24281,Mentor High School,2021,1,G,District,2,2521
+240,24281,Mentor High School,2021,1,G,Regional,5,2521
+241,24281,Mentor High School,2021,1,G,State,16,2521
+242,123836,Lakota East High School,2021,1,G,District,8,2550
+243,123836,Lakota East High School,2021,1,G,Regional,-1,2550
+244,19737,Lakota West High School,2021,1,G,District,4,2643
+245,19737,Lakota West High School,2021,1,G,Regional,12,2643
+246,5322,Centerville High School,2021,1,G,District,2,2694
+247,5322,Centerville High School,2021,1,G,Regional,4,2694
+248,5322,Centerville High School,2021,1,G,State,6,2694
+249,41376,William Mason High School,2021,1,G,District,1,3418
+250,41376,William Mason High School,2021,1,G,Regional,3,3418
+251,41376,William Mason High School,2021,1,G,State,8,3418

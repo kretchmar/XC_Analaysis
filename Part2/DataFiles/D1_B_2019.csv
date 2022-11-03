@@ -1,0 +1,279 @@
+,BLDG_IRN,NAME,YEAR,DIVISION,GENDER,TYPE,PLACE,POPULATION
+0,15598,John Marshall School of Engineering,2019,1,B,District,12,409
+1,53520,St Charles Preparatory ,2019,1,B,District,9,519
+2,53140,Lasalle ,2019,1,B,District,11,543
+3,54015,St Johns Jesuit ,2019,1,B,District,3,570
+4,54015,St Johns Jesuit ,2019,1,B,Regional,5,570
+5,53595,St Francis De Sales School ,2019,1,B,District,2,601
+6,53595,St Francis De Sales School ,2019,1,B,Regional,6,601
+7,23838,McKinley High School,2019,1,B,District,12,645
+8,13219,Geneva High School,2019,1,B,District,5,664
+9,13219,Geneva High School,2019,1,B,Regional,21,664
+10,22798,Marietta High School,2019,1,B,District,17,680
+11,39107,Walnut Ridge High School,2019,1,B,District,15,680
+12,32276,Rogers High School,2019,1,B,District,10,682
+13,2220,Bellefontaine High School,2019,1,B,District,8,683
+14,2220,Bellefontaine High School,2019,1,B,Regional,16,683
+15,41558,Wilmington High School,2019,1,B,District,14,696
+16,1149,Athens High School,2019,1,B,District,6,698
+17,35063,South High School,2019,1,B,District,16,714
+18,26906,New Philadelphia High School,2019,1,B,District,11,725
+19,24414,Miami Trace High School,2019,1,B,District,12,732
+20,22186,Trotwood-Madison High School,2019,1,B,District,25,733
+21,5207,Celina High School,2019,1,B,District,8,735
+22,28068,Norwalk High School,2019,1,B,District,4,736
+23,28068,Norwalk High School,2019,1,B,Regional,4,736
+24,14944,Hamilton Township High School,2019,1,B,District,16,742
+25,52951,Elder ,2019,1,B,District,3,752
+26,52951,Elder ,2019,1,B,Regional,12,752
+27,37291,Tippecanoe High School,2019,1,B,District,2,752
+28,37291,Tippecanoe High School,2019,1,B,Regional,5,752
+29,37291,Tippecanoe High School,2019,1,B,State,12,752
+30,27995,Norton High School,2019,1,B,District,15,758
+31,25866,Western Brown High School,2019,1,B,District,9,760
+32,12310,Franklin High School,2019,1,B,District,21,761
+33,36988,Tecumseh High School,2019,1,B,District,19,763
+34,41020,Whitehall Yearling High School,2019,1,B,District,14,768
+35,4796,Canfield High School,2019,1,B,District,7,773
+36,24596,Midview High School,2019,1,B,District,12,774
+37,17004,Howland High School,2019,1,B,District,11,781
+38,14258,Granville High School,2019,1,B,District,5,792
+39,14258,Granville High School,2019,1,B,Regional,10,792
+40,8722,Dover High School,2019,1,B,District,15,798
+41,3285,Bowling Green High School,2019,1,B,District,3,805
+42,3285,Bowling Green High School,2019,1,B,Regional,3,805
+43,52639,Archbishop Hoban ,2019,1,B,District,9,809
+44,139311,Monroe High School,2019,1,B,District,6,809
+45,1123,Lakeside High School,2019,1,B,District,11,812
+46,21576,Louisville High School,2019,1,B,District,1,817
+47,21576,Louisville High School,2019,1,B,Regional,5,817
+48,21576,Louisville High School,2019,1,B,State,14,817
+49,14621,Greenville Senior High School,2019,1,B,District,12,818
+50,18770,Kenston High School,2019,1,B,District,1,821
+51,18770,Kenston High School,2019,1,B,Regional,1,821
+52,18770,Kenston High School,2019,1,B,State,6,821
+53,39164,Wapakoneta High School,2019,1,B,District,9,826
+54,13920,Goshen High School,2019,1,B,District,14,832
+55,4416,Butler High School,2019,1,B,District,13,841
+56,2154,Bellbrook High School,2019,1,B,District,7,847
+57,2154,Bellbrook High School,2019,1,B,Regional,14,847
+58,6296,Chillicothe High School,2019,1,B,District,8,856
+59,64683,Northwest High School,2019,1,B,District,13,857
+60,53306,Moeller ,2019,1,B,District,8,869
+61,32243,Rocky River High School,2019,1,B,District,5,872
+62,32243,Rocky River High School,2019,1,B,Regional,23,872
+63,31393,Revere High School,2019,1,B,District,11,877
+64,32755,Ross High School,2019,1,B,District,10,881
+65,1081,Ashland High School,2019,1,B,District,1,886
+66,1081,Ashland High School,2019,1,B,Regional,1,886
+67,1081,Ashland High School,2019,1,B,State,13,886
+68,30098,Piqua High School,2019,1,B,District,16,888
+69,53546,St Edward ,2019,1,B,District,8,895
+70,7054,Columbian High School,2019,1,B,District,5,900
+71,22178,Madison High School,2019,1,B,District,8,903
+72,36863,Talawanda High School,2019,1,B,District,9,908
+73,36863,Talawanda High School,2019,1,B,Regional,15,908
+74,42218,Wooster High School,2019,1,B,District,8,909
+75,22111,Madison High School,2019,1,B,District,10,912
+76,7310,Copley High School,2019,1,B,District,9,917
+77,38588,West Carrollton High School,2019,1,B,District,23,918
+78,463,Alliance High School,2019,1,B,District,12,937
+79,34561,Sidney High School,2019,1,B,District,18,947
+80,5876,Chardon High School,2019,1,B,District,8,949
+81,21246,Logan High School,2019,1,B,District,12,958
+82,27680,Northland High School,2019,1,B,District,18,965
+83,1297,Aurora High School,2019,1,B,District,3,966
+84,1297,Aurora High School,2019,1,B,Regional,14,966
+85,33555,Sandusky High School,2019,1,B,District,11,967
+86,42408,Xenia High School,2019,1,B,District,27,981
+87,23119,Marysville High School,2019,1,B,District,7,982
+88,8298,Lima Senior High School,2019,1,B,District,10,985
+89,25932,Mount Vernon High School,2019,1,B,District,14,994
+90,38950,Waite High School,2019,1,B,District,12,997
+91,35477,Springfield High School,2019,1,B,District,7,1003
+92,40964,Whetstone High School,2019,1,B,District,13,1004
+93,16154,Highland High School,2019,1,B,District,4,1006
+94,16154,Highland High School,2019,1,B,Regional,17,1006
+95,62489,Walsh Jesuit ,2019,1,B,District,6,1012
+96,12500,Fremont Ross High School,2019,1,B,District,6,1021
+97,15214,Harding High School,2019,1,B,District,16,1031
+98,42796,Fairborn High School,2019,1,B,District,24,1051
+99,22871,Marion L Steele High School,2019,1,B,District,6,1066
+100,68502,Turpin High School,2019,1,B,District,2,1080
+101,68502,Turpin High School,2019,1,B,Regional,6,1080
+102,68551,Sylvania Southview High School,2019,1,B,District,6,1082
+103,35089,South High School,2019,1,B,District,14,1083
+104,3996,Brush High School,2019,1,B,District,7,1086
+105,40758,Westlake High School,2019,1,B,District,10,1089
+106,27367,Normandy High School,2019,1,B,District,7,1095
+107,22566,Maple Heights High School,2019,1,B,District,13,1099
+108,29330,Parma High School,2019,1,B,District,11,1105
+109,37481,Edgewood High School,2019,1,B,District,22,1107
+110,37598,Troy High School,2019,1,B,District,10,1130
+111,61812,Lake Middle / High School,2019,1,B,District,7,1136
+112,6494,Clay High School,2019,1,B,District,9,1137
+113,2709,Big Walnut High School,2019,1,B,District,14,1143
+114,38109,Valley Forge High School,2019,1,B,District,10,1143
+115,28605,Olmsted Falls High School,2019,1,B,District,13,1153
+116,39602,Washington High School,2019,1,B,District,14,1158
+117,41368,William Henry Harrison High School,2019,1,B,District,11,1158
+118,4770,Canal Winchester High School,2019,1,B,District,10,1182
+119,64147,Winton Woods High School,2019,1,B,District,13,1201
+120,3467,Brecksville-Broadview Heights High School,2019,1,B,District,1,1203
+121,3467,Brecksville-Broadview Heights High School,2019,1,B,Regional,13,1203
+122,36962,Teays Valley High School,2019,1,B,District,8,1206
+123,687,Anderson High School,2019,1,B,District,9,1208
+124,26302,North Olmsted High School,2019,1,B,District,11,1208
+125,1388,Avon Lake High School,2019,1,B,District,3,1213
+126,1388,Avon Lake High School,2019,1,B,Regional,20,1213
+127,27334,Nordonia High School,2019,1,B,District,9,1215
+128,27573,North High School,2019,1,B,District,13,1215
+129,3061,Boardman High School,2019,1,B,District,4,1216
+130,3061,Boardman High School,2019,1,B,Regional,12,1216
+131,11791,Fitch High School,2019,1,B,District,10,1223
+132,14365,Green High School,2019,1,B,District,3,1234
+133,14365,Green High School,2019,1,B,Regional,11,1234
+134,11692,Firestone High School,2019,1,B,District,10,1236
+135,26336,North Ridgeville High School,2019,1,B,District,9,1241
+136,32508,Theodore Roosevelt High School,2019,1,B,District,14,1244
+137,1545,Barberton High School,2019,1,B,District,16,1254
+138,7930,Cuyahoga Falls High School,2019,1,B,District,8,1254
+139,810,Anthony Wayne High School,2019,1,B,District,5,1268
+140,136101,Twinsburg High School,2019,1,B,District,8,1291
+141,39842,Watkins Memorial High School,2019,1,B,District,10,1320
+142,20461,Licking Heights High School,2019,1,B,District,7,1325
+143,21600,Loveland High School,2019,1,B,District,3,1326
+144,21600,Loveland High School,2019,1,B,Regional,8,1326
+145,120485,Dublin Scioto High School,2019,1,B,District,5,1340
+146,120485,Dublin Scioto High School,2019,1,B,Regional,7,1340
+147,98640,Kings High School,2019,1,B,District,4,1340
+148,98640,Kings High School,2019,1,B,Regional,13,1340
+149,19687,Lakewood High School,2019,1,B,District,4,1355
+150,19687,Lakewood High School,2019,1,B,Regional,22,1355
+151,36707,Sylvania Northview High School,2019,1,B,District,4,1362
+152,112094,Worthington Kilbourne High School,2019,1,B,District,5,1364
+153,112094,Worthington Kilbourne High School,2019,1,B,Regional,14,1364
+154,10660,North Royalton High School,2019,1,B,District,5,1372
+155,21113,Little Miami High School,2019,1,B,District,8,1393
+156,53876,St Xavier ,2019,1,B,District,1,1405
+157,53876,St Xavier ,2019,1,B,Regional,1,1405
+158,53876,St Xavier ,2019,1,B,State,1,1405
+159,27698,Northmont High School,2019,1,B,District,11,1426
+160,53629,St Ignatius High School ,2019,1,B,District,1,1434
+161,53629,St Ignatius High School ,2019,1,B,Regional,3,1434
+162,53629,St Ignatius High School ,2019,1,B,State,9,1434
+163,16758,Hoover High School,2019,1,B,District,2,1436
+164,16758,Hoover High School,2019,1,B,Regional,16,1436
+165,27011,Newark High School,2019,1,B,District,10,1436
+166,29702,Perry High School,2019,1,B,District,6,1439
+167,31989,Riverside Jr/Sr High School,2019,1,B,District,6,1446
+168,17095,Hudson High School,2019,1,B,District,1,1455
+169,17095,Hudson High School,2019,1,B,Regional,2,1455
+170,17095,Hudson High School,2019,1,B,State,8,1455
+171,1370,Avon High School,2019,1,B,District,7,1467
+172,34835,Solon High School,2019,1,B,District,2,1507
+173,34835,Solon High School,2019,1,B,Regional,4,1507
+174,34835,Solon High School,2019,1,B,State,3,1507
+175,16941,Olentangy Berlin High School,2019,1,B,District,8,1544
+176,30759,Princeton High School,2019,1,B,District,12,1546
+177,40675,Westerville-South High School,2019,1,B,District,11,1547
+178,67959,Westerville-North High School,2019,1,B,District,12,1549
+179,24422,Miamisburg High School,2019,1,B,District,15,1553
+180,34108,Shaker Hts High School,2019,1,B,District,4,1554
+181,34108,Shaker Hts High School,2019,1,B,Regional,18,1554
+182,38935,Wadsworth High School,2019,1,B,District,6,1566
+183,142018,Central Crossing High School,2019,1,B,District,15,1569
+184,29744,Perrysburg High School,2019,1,B,District,1,1569
+185,29744,Perrysburg High School,2019,1,B,Regional,2,1569
+186,29744,Perrysburg High School,2019,1,B,State,16,1569
+187,12094,Reynoldsburg High School eSTEM,2019,1,B,District,6,1575
+188,12094,Reynoldsburg High School eSTEM,2019,1,B,Regional,15,1575
+189,36640,Sycamore High School,2019,1,B,District,4,1582
+190,36640,Sycamore High School,2019,1,B,Regional,17,1582
+191,123539,Hilliard Darby High School,2019,1,B,District,9,1585
+192,145086,Pickerington High School North,2019,1,B,District,1,1585
+193,145086,Pickerington High School North,2019,1,B,Regional,5,1585
+194,145086,Pickerington High School North,2019,1,B,State,5,1585
+195,15842,Cleveland Heights High School,2019,1,B,District,12,1595
+196,35527,Springfield High School,2019,1,B,District,26,1598
+197,23325,Mayfield High School,2019,1,B,District,9,1599
+198,20032,Lebanon High School,2019,1,B,District,1,1610
+199,20032,Lebanon High School,2019,1,B,Regional,4,1610
+200,20032,Lebanon High School,2019,1,B,State,15,1610
+201,146183,Westerville Central High School,2019,1,B,District,9,1622
+202,30155,New Albany High School,2019,1,B,District,3,1630
+203,30155,New Albany High School,2019,1,B,Regional,9,1630
+204,28548,Olentangy High School,2019,1,B,District,7,1637
+205,1966,Beavercreek High School,2019,1,B,District,4,1644
+206,1966,Beavercreek High School,2019,1,B,Regional,3,1644
+207,1966,Beavercreek High School,2019,1,B,State,10,1644
+208,33084,Rutherford B Hayes High School,2019,1,B,District,11,1648
+209,10462,Elyria High School,2019,1,B,District,15,1664
+210,24562,Middletown High School,2019,1,B,District,20,1670
+211,40048,Wayne High School,2019,1,B,District,17,1671
+212,9091,Hilliard Bradley High School,2019,1,B,District,6,1695
+213,36210,Stow-Munroe Falls High School,2019,1,B,District,5,1731
+214,36210,Stow-Munroe Falls High School,2019,1,B,Regional,19,1731
+215,42283,Thomas Worthington High School,2019,1,B,District,2,1743
+216,42283,Thomas Worthington High School,2019,1,B,Regional,4,1743
+217,42283,Thomas Worthington High School,2019,1,B,State,20,1743
+218,6890,Colerain High School,2019,1,B,District,12,1758
+219,14704,Groveport Madison High School,2019,1,B,District,13,1765
+220,29876,Pickerington High School Central,2019,1,B,District,4,1799
+221,29876,Pickerington High School Central,2019,1,B,Regional,16,1799
+222,24570,Berea-Midpark High School,2019,1,B,District,14,1801
+223,19752,Lancaster High School,2019,1,B,District,4,1816
+224,19752,Lancaster High School,2019,1,B,Regional,6,1816
+225,61325,Grove City High School,2019,1,B,District,13,1847
+226,64758,Dublin Coffman High School,2019,1,B,District,3,1850
+227,64758,Dublin Coffman High School,2019,1,B,Regional,11,1850
+228,11627,Findlay High School,2019,1,B,District,7,1865
+229,37945,Upper Arlington High School,2019,1,B,District,2,1867
+230,37945,Upper Arlington High School,2019,1,B,Regional,12,1867
+231,36277,Strongsville High School,2019,1,B,District,2,1874
+232,36277,Strongsville High School,2019,1,B,Regional,24,1874
+233,16303,Hilliard Davidson High School,2019,1,B,District,1,1877
+234,16303,Hilliard Davidson High School,2019,1,B,Regional,2,1877
+235,16303,Hilliard Davidson High School,2019,1,B,State,7,1877
+236,146928,Dublin Jerome High School,2019,1,B,District,4,1904
+237,146928,Dublin Jerome High School,2019,1,B,Regional,13,1904
+238,145953,Olentangy Liberty High School,2019,1,B,District,3,1922
+239,145953,Olentangy Liberty High School,2019,1,B,Regional,8,1922
+240,9286,Orange High School,2019,1,B,District,2,1926
+241,9286,Orange High School,2019,1,B,Regional,3,1926
+242,9286,Orange High School,2019,1,B,State,18,1926
+243,39073,Walnut Hills High School,2019,1,B,District,5,1927
+244,24745,Milford Sr High School,2019,1,B,District,10,1960
+245,6593,Springboro High School,2019,1,B,District,6,1972
+246,6593,Springboro High School,2019,1,B,Regional,10,1972
+247,17772,Jackson High School,2019,1,B,District,5,1979
+248,17772,Jackson High School,2019,1,B,Regional,8,1979
+249,17772,Jackson High School,2019,1,B,State,19,1979
+250,3970,Brunswick High School,2019,1,B,District,3,1988
+251,3970,Brunswick High School,2019,1,B,Regional,10,1988
+252,24075,Medina High School,2019,1,B,District,2,2010
+253,24075,Medina High School,2019,1,B,Regional,7,2010
+254,24075,Medina High School,2019,1,B,State,17,2010
+255,28365,GlenOak High School,2019,1,B,District,4,2115
+256,28365,GlenOak High School,2019,1,B,Regional,15,2115
+257,23846,McKinley High School,2019,1,B,District,13,2116
+258,11049,Fairfield High School,2019,1,B,District,5,2128
+259,13532,West Clermont High School,2019,1,B,District,7,2189
+260,41046,Whitmer High School,2019,1,B,District,2,2203
+261,41046,Whitmer High School,2019,1,B,Regional,7,2203
+262,28217,Oak Hills High School,2019,1,B,District,7,2260
+263,20883,Lincoln High School,2019,1,B,District,1,2323
+264,20883,Lincoln High School,2019,1,B,Regional,1,2323
+265,20883,Lincoln High School,2019,1,B,State,4,2323
+266,18929,Kettering Fairmont High School,2019,1,B,District,3,2399
+267,18929,Kettering Fairmont High School,2019,1,B,Regional,9,2399
+268,24281,Mentor High School,2019,1,B,District,2,2521
+269,24281,Mentor High School,2019,1,B,Regional,9,2521
+270,123836,Lakota East High School,2019,1,B,District,6,2550
+271,19737,Lakota West High School,2019,1,B,District,2,2643
+272,19737,Lakota West High School,2019,1,B,Regional,7,2643
+273,5322,Centerville High School,2019,1,B,District,5,2694
+274,5322,Centerville High School,2019,1,B,Regional,11,2694
+275,41376,William Mason High School,2019,1,B,District,1,3418
+276,41376,William Mason High School,2019,1,B,Regional,2,3418
+277,41376,William Mason High School,2019,1,B,State,2,3418
